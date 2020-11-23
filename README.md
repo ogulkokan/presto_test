@@ -1,5 +1,5 @@
 # presto_test
-Learning Presto. Test with local csv and sqlite database
+Learning Presto. Test with different databases
 
 
 
@@ -36,6 +36,11 @@ http://localhost:8080
 New dataset configration        |  postgresql settings     |  mysql settings 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](./images/catalog.png)  |  ![](./images/postgresql.png) | ![](./images/mysql.png) |
+
+
+postgresql dataset example    |  mysql dataset example  | 
+:-------------------------:|:-------------------------:|
+![](./images/postdata.png)  |  ![](./images/mysqldata.png) | 
 
 
 
